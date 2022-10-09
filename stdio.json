@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1001,
+        "text": "What is the output of following?",
+        "code": "int n = 13;\nprintf(\"%d\\n\", n);",
+        "options": [
+            { "text": "13", "isCorrect": true },
+            { "text": "15", "isCorrect": false },
+            { "text": "d", "isCorrect": false }
+        ]
+    },
+    {
+        "id": 1002,
+        "text": "What is the output of following?",
+        "code": "int n = 13;\nprintf(\"%o\\n\", n);",
+        "options": [
+            { "text": "13", "isCorrect": false },
+            { "text": "15", "isCorrect": true },
+            { "text": "d", "isCorrect": false }
+        ]
+    },
+    {
+        "id": 1003,
+        "text": "What is the output of following?",
+        "code": "int n = 13;\nprintf(\"%x\\n\", n);",
+        "options": [
+            { "text": "13", "isCorrect": false },
+            { "text": "15", "isCorrect": false },
+            { "text": "d", "isCorrect": true }
+        ]
+    }
+]
